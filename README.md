@@ -10,7 +10,7 @@
 
 ## 🧱 Requisitos
 
-- Java 11 (JDK)
+- Java 17 (JDK)
 - Maven 3.6+
 - Eclipse IDE 2021‑12 (4.22.0)
 - Plugin del IDE: **SonarQube for IDE (formerly SonarLint)**
